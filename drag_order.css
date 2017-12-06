@@ -1,0 +1,11 @@
+﻿.drag-order {
+    min-height: 1em; /*Makes drag and drop work with Internet Explorer*/
+}
+
+.drag-order-started {
+    opacity: 0.5;
+}
+
+.row-header div{
+    font-weight: bold;
+}
